@@ -7,7 +7,7 @@
 3. illius refers to the God of death and destruction.
 4. nominative, plural, neuter
 5. 3rd Declension masculine
-6. genitive plural and it refers to Uranus. **Correct: second part of question was to whom does it refer?**
+6. genitive plural and it refers to the brothers of the previous sentence. **Correct: second part of question was to whom does it refer?**
 7. 3rd Declension masculine
 8. was/is
 
