@@ -12,5 +12,5 @@
 8. was/is
 
 
-Chaos was the first God. His daughters were Nox and the Goddess Earth, was the mother of all men. She was the mother of the God of death and destruction. Her **(what number is *illius*?)** sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python were huge serpents and Cyclopes, oafish stoneworkers **("Cyclopes" is actually plural from *Cyclops, Cycolpis*.  Can you now identify the form of "fabri bruti"?)**. But his brother was Uranus, the very first king of Gods. He was strong and great, but wise.
+Chaos was the first God. His daughters were Nox and the Goddess Earth, was the mother of all men. She was the mother of the God of death and destruction. Her **(what number is *illius*?)** sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python were huge serpents and Cyclopes, oafish stoneworkers **("Cyclopes" is actually plural from *Cyclops, Cycolpis*.  Can you now identify the form of "fabri bruti"?)**. But their brother was Uranus, the very first king of Gods. He was strong and great, but wise.
 
