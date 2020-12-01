@@ -1,6 +1,6 @@
 **Needs corrections** - one correction completed
 
-*Chaos* prīmus deōrum **erat**. Fīliae eius, *Nox* et Terra, māter omnium hominum, **erant**. *Haec* māter Mortis et Lētī **erat**. *Illīus fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. *Typhon et Python* dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed *frāter* eōrum Ūranus, prīmus ipse rēx deōrum. *Hic* fortis et magnus **erat**, sed sapiēns.
+*Chaos* prīmus deōrum **erat**. *Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**. *Haec* māter Mortis et Lētī **erat**. *Illīus fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. *Typhon et Python* dracōnēs ingentēs **erant** et Cyclōpēs fabrī brūtī. Sed *frāter* eōrum Ūranus, prīmus ipse rēx deōrum. *Hic* fortis et magnus **erat**, sed sapiēns.
 
 1. eius is in the genitive case and it refers to Chaos, "meaning his daughter, Nox". **Check the forms of *is,ea,id* : *eius* cannot be ablative**
 2. haec is a pro-noun meaning this or these.
