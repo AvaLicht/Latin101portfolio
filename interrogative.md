@@ -1,5 +1,5 @@
 **Needs corredtions**
-**Please include question marks when you compose a sentence!**
+
 
 1. Prometheus homines ex quo fingebat
 2. Vulvanus ex luto quem **This sentence needs a verb!**
