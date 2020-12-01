@@ -1,4 +1,4 @@
-**Needs revision** - one revision completed
+**Satisfactory: full credit**
 
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor. illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed *hic* **victus est**. *Neptūnus*, infestus quod *fīlius* ab Erechtheō **interfectus est**, **dīxit** “Erecthei *fīlia* immolanda **est**." itaque *Chthonia*, fīliārum ūna, **immolāta est**. ceterae *sorōrēs* sē **interfēcērunt**; ipse *Erechtheus* ab fulmine **ictus est**. 
@@ -16,5 +16,4 @@
 
 Erectheus, son of Pandion, had 4 daughters. At the time, Eumolpus, son of Neptune, came to attack Athens, but he was killed. Neptune, angry because his son was killed, said "the daughter of Erechtheus must be sacrificed".
 Therefore, Chthonia, one of the daughters, was sacrificed. The other daughters killed themselves.
-He himself killed the other daughter. **Find the subject of the verb *interfecerunt*.**
 Erectheus himself was struck by lightning.
