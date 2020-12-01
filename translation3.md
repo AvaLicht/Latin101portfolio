@@ -3,10 +3,7 @@
 **Review formation of the perfect passive.  Remember that those forms are compounds combining the verb "to be" with the fourth principle part.**
 
 
-*Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
-illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed hic victus **est**.   (*est* **is *part* of the verb but not the whole form.**)
-Neptūnus, infestus quod fīlius ab Erechtheō interfectus **est**, **dīxit** “Erecthei fīlia immolanda est.”  (**You're right that *dixit* is the main verb.  What's the subject? Note also the *est* is only *part* of the verb of the clause beginning with "quod..."**)
-itaque Chthonia, fīliārum ūna, immolāta **est**. ceterae sorōrēs sē **interfēcērunt**; ipse Erechtheus ab fulmine ictus **est**.    (**Do we have a subject for this sentence?**)
+*Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor. illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās oppugnandās, sed hic **victus est**. *Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus est**, **dīxit** “Erecthei fīlia immolanda est." itaque Chthonia, fīliārum ūna, immolāta **est**. ceterae sorōrēs sē **interfēcērunt**; ipse *Erechtheus* ab fulmine ictus **est**. 
 
 
 
