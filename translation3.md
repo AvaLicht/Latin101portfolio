@@ -13,10 +13,10 @@
 3. to attack athens
 4. gerundive so 3rd, Singular, , Perfect, Passive
 5. Passive construction, so it expresses that the daughter of Erechtheus was sacrificed but also with a neccescity to mean "must be sacrificed".  **It *does* have a passive sense.  Can you describe more closely what this combination of gerundive + "to be" expresses?**
-6. Feminine, dative, singular **But *ceterae* cannot be accusative. So what could this be?** I'm thinking that because the se is plural this is the plural and feminine so then ceterae would have to be nominative? 
+6. Feminine, dative, singular **But *ceterae* cannot be accusative. So what could this be?** I'm thinking that because the se is plural this is the plural and feminine so then ceterae would have to be nominative but I'm also not sure wherer ceterae comes from? 
 7. By means of construction so Prep. + abl
 
 Erectheus, son of Pandion, had 4 daughters. At the time, Eumolpus, son of Neptune, came to attack Athens, but he was killed. Neptune, angry because his son was killed, said "the daughter of Erechtheus must be sacrificed".
-Therefore, Chthonia, daughter of una, was sacrificed.  **What case is *unarum*?**
+Therefore, Chthonia, daughter of una, was sacrificed.  **What case is *unarum*?** I'm not sure where unarum comes from and I think that fillarum is in the accusative case.
 He himself killed the other daughter. **Find the subject of the verb *interfecerunt*.**
-Erectheus was struck by the very lightning. **What noun does *ipse* describe?**
+Erectheus was struck by lightning.
