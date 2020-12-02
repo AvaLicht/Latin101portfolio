@@ -37,36 +37,54 @@
 1. Present, indicative, 3rd person, singular, active of duco: ducit 
 2. Present, indicative, 3rd person, singular, active of duco: ducitur
 3. Present, indicative, 2nd person, singular, active of duco: ducis
-4. Present, indicative, 2nd person, singular, passive of duco: duciris
-5. Present, indicative, 3rd person, plural, active of duco: ducint
-6. Present, indicative, 3rd person, plural, passive of duco: ducintur
+4. Present, indicative, 2nd person, singular, passive of duco: duceris
+5. Present, indicative, 3rd person, plural, active of duco: ducunt
+6. Present, indicative, 3rd person, plural, passive of duco: ducuntur
 7. Imperfect, indicative, 3rd person, singular, active of duco: ducebat
 8. Imperfect, indicative, 3rd person, singular, passive of duco: ducebatur
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
+9. Imperfect, indicative, 2nd person, singular, active of duco: ducebas
+10. Imperfect, inicative, 2nd person, singular, passive of duco: ducebaris
+11. Imperfect, indicative, 3rd person, plural, active of duco: ducebant
+12. Imperfect, indicative, 3rd person, plural, passive of duco: ducebantur
+13. Perfect, indicative, 3rd person, singular, active of duco: duxit
+14. Perfect, indicative, 3rd person, singular, passive of duco: ductus est
+15. Perfect, indicative, 2nd person, singular, active of duco: duxisti
+16. Perfect, indicative, 2nd person, singular, passive of duco: ductus est
+17. Perfect, indicative, 3rd person, plural, active of duco: duxerunt
+18. Perfect, indicative, 3rd person, plural, passive of duco: ducti sunt
+1. Present, indicative, 3rd person, singular, active of capio: capit
+2. Present, indicative, 3rd person, singular, passive of capio: capitur
+3. Present, indicative, 2nd person, singular, active of capio: capis
+4. Present, indicative, 2nd person, singular, passive of capio: caperis
+5. Present, indicative, 3rd person, plural, active of capio: capiunt
+6. Present, indicative, 3rd person, plural, passive of capio: capiuntur
+7. Imperfect, indicative, 3rd person, singular, active of capio: capiebat
+8. Imperfect, indicative, 3rd person, singular, passive of capio: capiebatur
+9. Imperfect, indicative, 2nd person, singular, active of capio: capiebas
+10. Imperfect, indicative, 2nd person, singular, passive of capio: capiebaris
+11. Imperfect, indicative, 3rd person, plural, active of capio: capiebant
+12. Imperfect, indicative, 3rd person, plural, passive of capio: capiebantur
+13. Perfect, indicative, 3rd person, singular, active of capio: cepit
+14. Perfect, inicative, 3rd persion, singular, passive of capio: ceptus est
+15. Perfect, indicative, 2nd person, singular, active of capio: cepisti
+16. Perfect, indicative, 2nd person, singular, passive of capio: captus es
+17. Perfect, indicative, 3rd person, plural, active of capio: caperunt
+18. Perfect, indicative, 3rd person, plural, passive of capio: capti sunt
+1. Present, indicative, 3rd person, singular, active of audio: Audit
+2. Present, indicative, 3rd person, singular, passive of audio: Auditur
+3. Present, indicative, 2nd person, singular, active of audio: Audis
+4. Present, indicative, 2nd person, singular, passive of audio: Audiris
+5. Present, indicative, 3rd person, plural, active of audio: Audiunt
+6. Present, indicative, 3rd person, plural,passive of audio: Audiuntur
+7. Imperfect, indicative, 3rd person, singular, active of audio: Audiebat
+8. Imperfect, indicative, 3rd person, singular, passive of audio:Audiebatur
+9. Imperfect, indicative, 2nd person, singular, active of audio: Audiebas
+10. Imperfect, indicative, 2nd person, singular, passive of audio: Audiebaris
+11. Imperfect, indicative, 3rd person, plural, active of audio: Audiebant
+12. Imperfect, indicative, 3rd person, plural, passive of audio: Audiebantur
+13. Perfect, indicative, 3rd person, singular, active of audio: Audivit
+14. Perfect, inicative, 3rd persion, singular, passive of audio: Auditus est
+15. Perfect, indicative, 2nd person, singular, active of audio: Audivisti
+16. Perfect, indicative, 2nd person, singular, passive of audio: Auditus es
+17. Perfect, indicative, 3rd person, plural, active of audio: Audiverunt
+18. Perfect, indicative, 3rd person, plural, passive of audio: Auditi sunt
