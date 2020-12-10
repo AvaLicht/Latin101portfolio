@@ -8,7 +8,7 @@ Cum Achīvī decem annōs Troiam **capere** nōn possent, *Epeus* equum mirae ma
 7. it's dative and singular so it is acting as the indirect object
 8. to mean and 
 
-He could not capture Troy in ten years with Achivi, so Epeus made a surprisingly large wooden
+He could not capture Troy in ten years with the greeks, so Epeus made a surprisingly large wooden
 horse. For this, those gathered are Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas,
 Thoas, Machaon, Neoptolemus. On the horse they wrote, “the greeks give a gift to Minerva”
 translated at camp. When the Trojans saw it, they judged that the enemy had gone away; Priamus
