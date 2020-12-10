@@ -8,7 +8,7 @@
 3. b.interficeret
 4. a.occidat
 4. b.occideret
-5. a.adduicat **Typo, I think:  right ending, but check the stem!**
+5. a.adducat **Typo, I think:  right ending, but check the stem!**
 5. b.adduceret
 6. a.interficiat
 6. b.interficeret
