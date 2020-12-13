@@ -12,5 +12,5 @@
 5. b.adduceret
 6. a.interficiat
 6. b.interficeret
-7. a.purgiat **What conjugation is this, and what is the present stem?**
-8. b.pugeret
+7. a.purget **What conjugation is this, and what is the present stem?**
+7. b.pugaret
